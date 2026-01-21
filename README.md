@@ -61,6 +61,10 @@ Live-ops ownership, team coordination, architecture, SDK migrations, production 
 
 ---
 
-## 📬 Contact
+<details>
+<summary>Contact (click to expand)</summary>
+
 Telegram: **@Powertip665**  
 Email: **sc2aru@gmail.com**
+
+</details>
