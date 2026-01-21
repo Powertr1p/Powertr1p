@@ -1,16 +1,65 @@
-## Hi there 👋
+# Senior / Lead Unity Developer (C#)
+Mobile Games · Live-ops · Architecture · 5+ years
 
-<!--
-**Powertr1p/Powertr1p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lead Unity Developer · Live-ops · 100M+ installs projects
 
-Here are some ideas to get you started:
+[CV (PDF)](https://drive.google.com/file/d/19knuA6C3ejA88Z0nT4sumzJd3BtMzOkX/view?usp=sharing)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+**Riding Extreme 3D**  
+Lead Unity Developer · **100M+ installs** · Live-ops  
+Unity · C#  
+[Google Play](https://play.google.com/store/apps/details?id=com.ducky.bikehill3d&hl=en) · [App Store](https://apps.apple.com/us/app/bike-ride-3d/id6444416655)
+
+**Hamster Fight Club**  
+Creator / Prototype Owner · **200K+ MAU** · Telegram MiniApp  
+Cocos3D · TypeScript  
+[Telegram MiniApp](https://t.me/hamster_fightclub_bot?startapp)
+
+**UFO Puzzle Game**  
+Feature Developer · **20K+ MAU** · Telegram MiniApp  
+JavaScript · Custom JS Engine  
+[Telegram MiniApp](https://t.me/ufo_puzzle_bot/play?startapp)
+
+**Red Falcon**  
+Solo Developer · Released on Steam  · GameJam
+Full-cycle game: development, Steam publishing, pricing, release  
+C# · Unity  
+[Steam](https://store.steampowered.com/app/1402700/Krasnyj_Sokol/?l=russian)
+
+## Core Strengths
+- Live-ops & revenue-driven systems
+- Legacy code refactoring & architecture evolution
+- Performance, startup time & build size optimization
+- Client–server gameplay logic
+- Technical leadership, code reviews
+
+---
+
+## Tech Stack
+- **Unity / C#**: SOLID, OOP, ECS, async/await, MVP/MVC, URP/SRP, ScriptableObjects  
+- **DI**: Zenject, VContainer, Custom DI  
+- **Tools**: UniTask, DOTween, Addressables, Spine, Odin, Cinemachine, Unity Profiler, Editor Scripting  
+- **Ads & Analytics**: AppLovin MAX, ironSource, AdMob, Meta, Mintegral, GameAnalytics, Firebase, AppsFlyer, Adjust, Amplitude  
+- **Networking**: REST API, WebSockets, Mirror, Netcode for GameObjects  
+- **Platforms**: Android, iOS, WebGL · App Store / Google Play  
+- **Languages**: C#, JavaScript, TypeScript, Tact  
+- **DevOps**: Android Studio, Xcode, CI/CD (GitHub, GitLab)
+
+---
+
+## Experience
+**Lead / Senior Unity Developer — Dats.Games (2023–Present)**  
+Live-ops ownership, team coordination, architecture, SDK migrations, production stability
+
+**Unity Developer — Dats.Team (2021–2023)**  
+40+ prototypes, A/B testing, WebGL, SDK integrations, Xcode & Android build troubleshooting
+
+---
+
+## 📬 Contact
+Telegram: **@Powertip665**  
+Email: **sc2aru@gmail.com**
