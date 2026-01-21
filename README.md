@@ -30,16 +30,11 @@ Full-cycle game: development, Steam publishing, pricing, release
 C# · Unity  
 [Steam](https://store.steampowered.com/app/1402700/Krasnyj_Sokol/?l=russian)
 
-## Core Strengths
-- Live-ops & revenue-driven systems
-- Legacy code refactoring & architecture evolution
-- Performance, startup time & build size optimization
-- Client–server gameplay logic
-- Technical leadership, code reviews
-
 ---
 
-## Tech Stack
+<details>
+<summary>Tech Stack (click to expand)</summary>
+
 - **Unity / C#**: SOLID, OOP, ECS, async/await, MVP/MVC, URP/SRP, ScriptableObjects  
 - **DI**: Zenject, VContainer, Custom DI  
 - **Tools**: UniTask, DOTween, Addressables, Spine, Odin, Cinemachine, Unity Profiler, Editor Scripting  
@@ -48,6 +43,8 @@ C# · Unity
 - **Platforms**: Android, iOS, WebGL · App Store / Google Play  
 - **Languages**: C#, JavaScript, TypeScript, Tact  
 - **DevOps**: Android Studio, Xcode, CI/CD (GitHub, GitLab)
+
+</details>
 
 ---
 
