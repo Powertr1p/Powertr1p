@@ -48,12 +48,16 @@ C# · Unity
 
 ---
 
-## Experience
+<details>
+<summary>Experience (click to expand)</summary>
+
 **Lead / Senior Unity Developer — Dats.Games (2023–Present)**  
 Live-ops ownership, team coordination, architecture, SDK migrations, production stability
 
 **Unity Developer — Dats.Team (2021–2023)**  
 40+ prototypes, A/B testing, WebGL, SDK integrations, Xcode & Android build troubleshooting
+
+</details>
 
 ---
 
