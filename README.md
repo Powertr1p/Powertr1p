@@ -16,7 +16,8 @@ Unity · C#
 
 **Hamster Fight Club**  
 Creator / Prototype Owner · **200K+ MAU** · Telegram MiniApp  
-Live-ops: Cocos3D · TypeScript | Prototype: Unity · C# · WebGL
+Prototype: Unity · C# · WebGL  
+Live-ops: Cocos3D · TypeScript    
 [Telegram MiniApp](https://t.me/hamster_fightclub_bot?startapp) · [Prototype](https://s3.eponesh.com/games/draft/17786/v10/)
 
 **UFO Puzzle Game**  
